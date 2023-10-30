@@ -1,6 +1,6 @@
 # Kodi-V-20-21-Alpha1-Add-ons-LG-webOS
 
-Enigma2 Add-on for Kodi Compiled for LG webOS
+Add-ons for Kodi Compiled for LG webOS
 
 If the .zip files do not install, simply unzip them and transfer the folders to your TV.
 
